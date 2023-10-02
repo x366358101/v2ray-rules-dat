@@ -1,0 +1,9 @@
+# comments
+#include:another-file
+#domain:google.com @attr1 @attr2
+#keyword:google
+#regexp:www\.google\.com$
+#full:www.google.com
+
+pttime.org
+rousi.zip
